@@ -7,3 +7,14 @@
 - **Badi Bua**: [Semra](https://villageinfo.in/uttar-pradesh/rae-bareli/rae-bareli/semra.html),  Raebareli, 	Raebareli, 	Uttar Pradesh, India 
 - **Punni**: [Deeh](https://villageinfo.in/uttar-pradesh/rae-bareli/salon/deeh.html),   Salon, RaeBareli, 	Uttar Pradesh, India
 - **Choti Bua**: [Shaktipur](https://villageinfo.in/uttar-pradesh/basti/harraiya/shaktipur.html), 		Harraiya, 	Basti,      Uttar Pradesh, India 
+
+
+### Notes
+
+* Gram Panchayat can have many villages clubbed together (Redi is gram panchayat of Redi, Newada Mustarka, Haidarpur)
+* Tehsil / Block / Mandal / Panchayat Samiti - are name for same adminstrative units
+* Muncipalities are self government for urban areas: 
+  - Nagar panchayat 
+  - Municipal Council 
+  - Municipal Corporations
+  
